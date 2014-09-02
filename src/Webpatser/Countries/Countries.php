@@ -1,6 +1,7 @@
 <?php
 
 namespace Webpatser\Countries;
+use Jenssegers\Mongodb\Model as Eloquent;
 
 /**
  * CountryList

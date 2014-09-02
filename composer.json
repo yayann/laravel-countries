@@ -1,5 +1,5 @@
 {
-	"name" : "webpatser/laravel-countries",
+	"name" : "yayann/laravel-countries",
 	"description" : "Laravel Countries is a bundle for Laravel, providing Almost ISO 3166_2, 3166_3, currency, Capital and more for all countries.",
 	"type" : "laravel-library",
 	"authors" : [{
@@ -18,7 +18,7 @@
 		"iso_3166_2",
 		"iso_3166_3"
 	],
-	"homepage" : "https://github.com/webpatser/laravel-countries",
+	"homepage" : "https://github.com/yayann/laravel-countries",
 	"license" : [
 		"MIT"
 	],
