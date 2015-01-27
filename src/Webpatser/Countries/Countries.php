@@ -8,7 +8,8 @@ use Jenssegers\Mongodb\Model as Eloquent;
  *
  */
 class Countries extends \Eloquent {
-
+	protected $connection = 'mongodb';
+	
 	/**
 	 * @var string
 	 * Path to the directory containing countries data.
