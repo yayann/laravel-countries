@@ -7,7 +7,7 @@ use Jenssegers\Mongodb\Model as Eloquent;
  * CountryList
  *
  */
-class Countries extends \Eloquent {
+class Countries extends Eloquent {
 	protected $connection = 'mongodb';
 	
 	/**
